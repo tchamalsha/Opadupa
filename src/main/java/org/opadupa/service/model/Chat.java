@@ -1,4 +1,4 @@
-package org.opadupa.service;
+package org.opadupa.service.model;
 
 public class Chat {
 
